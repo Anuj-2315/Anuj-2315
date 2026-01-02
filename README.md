@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="Gemini_Generated_Image_a7psxta7psxta7ps.png" alt="Anuj Kumar Tech Banner" width="100%" />
+  <img src="banner.png" alt="Anuj Kumar Tech Banner" width="100%" />
 </p>
 
 
