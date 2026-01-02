@@ -1,7 +1,8 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Anuj%20Kumar&fontSize=45&fontAlignY=35&desc=AI%20%7C%20Software%20Engineering%20%7C%20Backend%20Systems&descAlignY=55"/>
+  <img src="Gemini_Generated_Image_a7psxta7psxta7ps.png" alt="Anuj Kumar Tech Banner" width="100%" />
 </p>
+
 
 <!-- TYPING ANIMATION -->
 <p align="center">
