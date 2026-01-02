@@ -3,10 +3,9 @@
   <img src="banner.png" alt="Anuj Kumar Tech Banner" width="100%" />
 </p>
 
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (GREEN THEME) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Backend+Developer;Building+Scalable+Systems;Turning+Ideas+Into+Products"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=2ECC71&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Backend+Developer;Building+Scalable+Systems;Turning+Ideas+Into+Products"/>
 </p>
 
 ---
@@ -79,61 +78,61 @@ I specialize in **AI-driven applications, backend development, and scalable syst
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-2ECC71?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-27AE60?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-1E8449?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-145A32?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2ECC71?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![FastAPI](https://img.shields.io/badge/FastAPI-1ABC9C?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-239B56?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-27AE60?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2ECC71?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-145A32?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia)
+![NumPy](https://img.shields.io/badge/NumPy-1E8449?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-27AE60?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-2ECC71?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-145A32?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anuj-kumar-8b9989266">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anujkumar0379456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-27AE60?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/31581073">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow"/>
+    <img src="https://img.shields.io/badge/StackOverflow-1ABC9C?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Green Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuj-2315&theme=panda"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuj-2315&theme=panda"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj-2315&theme=vue-dark&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuj-2315&theme=vue-dark&hide_border=true"/>
 </p>
 
 ---
 
 ## ✍️ Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anuj-2315&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=Anuj-2315&icon=0&color=12"/>
 </p>
 
 <p align="center">
-✨ Thanks for visiting — let’s build intelligent systems together ✨
+🌱 Thanks for visiting — let’s build intelligent systems together 🌱
 </p>
